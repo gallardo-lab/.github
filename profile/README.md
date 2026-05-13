@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Gallardo Lab
 
 **Molecular oncology and targeted nanomedicine** at the
