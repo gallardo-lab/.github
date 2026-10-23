@@ -6,7 +6,6 @@
 - **MYC/MAX biology** — competitive blockade strategies and downstream pathway profiling for oncogenic transcriptional programs.
 - **HER2+ targeted nanomedicine** — receptor-guided delivery platforms (aptamer-coated AuNPs and polymeric NPs) carrying mRNAs, miRNAs, antimiRs, and peptide constructs.
 - **IVT-mRNA platform** — in vitro transcription (T7, CleanCap, poly(A)) for synthetic mRNA cargo.
-- **Post-GWAS functional annotation** — reproducible pipelines for type 2 diabetes and metabolic loci (e.g., RPTOR/rs12950541).
 - **Breast cancer genetics in Northeastern Mexico** — gene–environment interactions, ACMG/CAP variant interpretation.
 
 ## Software & open resources (citable)
@@ -17,7 +16,6 @@
 | **PrimerDesigner** | PCR primer design, in-silico PCR, Sanger | 10.5281/zenodo.20725380 |
 | **Group Competition** | Classroom quiz platform | 10.5281/zenodo.20752399 |
 | **Gold & Trojan Horse** | Interactive nanomedicine module | 10.5281/zenodo.20752592 |
-| **RPTOR Post-GWAS (rs12950541)** | Preprint (bioRxiv) | 10.64898/2026.04.26.720864 |
 
 🌐 Live platform: https://gallardo-lab.github.io/gallardo-biotools/
 
